@@ -3,7 +3,7 @@ from llama_hub.tools.requests import RequestsToolSpec
 import openai
 import streamlit as st
 
-openai.api_key = "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"
+openai.api_key = "YOUR_OPENAI_API_KEY"
 
 
 tool_spec = RequestsToolSpec(
