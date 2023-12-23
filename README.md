@@ -9,7 +9,7 @@ To participate in this workshop, you'll need:
 
 ### Getting Started
 
-#### Environment Setup
+#### Setup
 Follow these steps to set up your development environment:
 
 1. Make the setup script executable by running `chmod +x setup.sh` in your terminal.
@@ -21,6 +21,9 @@ Follow these steps to set up your development environment:
     - Creating a virtual environment with `virtualenv venv -p $PYENV_ROOT/shims/python3.11`.
     - Activating the virtual environment using `source ./venv/bin/activate`.
     - Installing required Python dependencies with `pip install -r requirements.txt`.
+
+#### Running The Code
+To run the script you will have to run `streamlit run main.py`
 
 ###  Tasks
 We will be covering the following tasks:
