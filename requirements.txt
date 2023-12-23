@@ -1,0 +1,7 @@
+openai
+streamlit
+flask
+flask[async]
+llama-index
+llama_hub
+
