@@ -1,5 +1,5 @@
 ## WTF is this?
-Welcome to our Coding Workshop in Canggu, Bali, where we're building a state-of-the-art Language Learning Model (LLM) chatbot. This chatbot is designed to handle weather-related queries and tasks, making it a perfect fit for anyone interested in integrating AI into weather applications.
+Welcome to our Coding Workshop in Canggu, Bali, where we're building a state-of-the-art Language Learning Model (LLM) chatbot. This chatbot is designed to handle weather-related queries and tasks, making it a perfect fit for anyone interested in building LLM applications.
 
 ### Requirements
 To participate in this workshop, you'll need:
