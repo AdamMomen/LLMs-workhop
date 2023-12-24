@@ -27,10 +27,10 @@ To run the script you will have to run `streamlit run main.py`
 
 ###  Tasks
 We will be covering the following tasks:
-- [ ] Setting up the OpenAI chat agent.
-- [ ] Creating an interactive chat interface using Streamlit.
-- [ ] Modifying the system prompt for personalized interactions.
-- [ ] Building a robust Flask-based weather server.
+- [x] Setting up the OpenAI chat agent.
+- [x] Modifying the system prompt for personalized interactions.
+- [x] Creating an interactive chat interface using Streamlit.
+- [ ] Building a Flask-based weather server.
 - [ ] Integrating the weather server with the chat agent for real-time responses.
 - [ ] Bonus Task: Indexing messages from the [Bali Nomad Coders WhatsApp group](https://chat.whatsapp.com/InC6F7Z8qrdH5wIxXLjWnm) for coding.
 - [ ] Bonus Task: Implementing RAG (Retrieval-Augmented Generation) on indexed documents and enabling ChatGPT to perform contextual conversations.
